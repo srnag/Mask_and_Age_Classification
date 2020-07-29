@@ -49,9 +49,7 @@ isto kako i tie pogornite :)
 Toni
 
 ## Video Classification
-<img src="https://github.com/FilipAngelov/Mask_and_Age_Classification/tree/master/other/gif-petar.gif"/>
-
-![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/tree/master/other/gif-petar.gif)
+![github](https://github.com/FilipAngelov/Mask_and_Age_Classification/tree/master/other/gif-petar.gif)
 
 ## Code Examples
 Show examples of usage:
