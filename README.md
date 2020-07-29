@@ -51,7 +51,7 @@ Toni
 ## Video Classification
 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/3cXkZl1TYpY/1.jpg)](http://www.youtube.com/watch?v=3cXkZl1TYpY "Video Title")
+[![IMAGE ALT TEXT](https://prnt.sc/tqsxkn)](http://www.youtube.com/watch?v=3cXkZl1TYpY "Video Title")
 
 ## Code Examples
 Show examples of usage:
