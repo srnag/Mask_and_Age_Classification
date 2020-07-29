@@ -49,8 +49,7 @@ isto kako i tie pogornite :)
 Toni
 
 ## Video Classification
-* Upload GIF
-Petar
+![Alt Text](https://media1.giphy.com/media/egvrdVsM3oP04EpKcv/giphy.gif)
 
 ## Code Examples
 Show examples of usage:
