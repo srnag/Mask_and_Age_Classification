@@ -49,7 +49,7 @@ isto kako i tie pogornite :)
 Toni
 
 ## Video Classification
-![hippo](https://github.com/FilipAngelov/Mask_and_Age_Classification/tree/master/other/gif-petar.gif)
+![til](https://github.com/FilipAngelov/Mask_and_Age_Classification/tree/master/other/gif-petar.gif)
 
 ## Code Examples
 Show examples of usage:
