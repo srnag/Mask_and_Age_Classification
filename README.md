@@ -5,8 +5,8 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Dataset](#dataset)
-* [Setup](#setup)
 * [Trained Model](#trained-model) 
+* [Setup](#setup)
 * [Image Classification Screenshots](#image-classification-screenshots)
 * [Video Classification](#video-classification)
 * [Features](#features)
@@ -20,14 +20,14 @@ Add more general information about project. What the purpose of the project is? 
 ## Technologies
 * Tech 1 - version 1.0
 
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
 ## Dataset
 * Link to dataset
 
 ## Trained Model
 * Link to model
+
+## Setup
+Describe how to install / setup your local environement / add link to demo version.
 
 ## Image Classification Screenshots
 ![Example screenshot](./img/screenshot.png)
