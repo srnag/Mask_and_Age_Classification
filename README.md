@@ -51,7 +51,7 @@ Toni
 ## Video Classification
 
 
-[![IMAGE ALT TEXT](https://prnt.sc/tqsxkn)](http://www.youtube.com/watch?v=3cXkZl1TYpY "Video Title")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/3cXkZl1TYpY/0.jpg)](http://www.youtube.com/watch?v=3cXkZl1TYpY "Live webcam classification test")
 
 ## Code Examples
 Show examples of usage:
