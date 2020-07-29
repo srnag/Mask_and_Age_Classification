@@ -28,14 +28,15 @@ Sometimes it could be quite difficult to find the correct dataset for launching 
 
 ## Technologies
 * Tech 1 - version 1.0
+(prvo da probame koj model ke funkcionira posle toa ke stavam koj model i sto tehnologii se koristeni)
 Toni
 
 ## Dataset
 * Link to dataset
-Toni
+https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing (ova e link so view na datasetot (neznam dali e dobra opcijata edit na istiot da ja stavam))
 
 ## Trained Model
-* Link to model
+* Link to model (prvo da probame koj model ke funkcionira posle toa ke stavam link od modelot)
 Toni
 
 ## Setup
@@ -44,6 +45,7 @@ Filip
 
 ## Image Classification Screenshots
 ![Example screenshot](./img/screenshot.png)
+isto kako i tie pogornite :)
 Toni
 
 ## Video Classification
