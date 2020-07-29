@@ -3,21 +3,18 @@
 
 ## Table of Contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Dataset](#dataset)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Image Classification Screenshots](#image classification screenshots)
+* [Video Classification](#video classification)
 * [Features](#features)
-* [Status](#status)
 * [Inspiration](#inspiration)
 * [Contributors](#contributors)
 
 
 ## General Info
 Add more general information about project. What the purpose of the project is? Motivation?
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
 
 ## Dataset
 
@@ -26,6 +23,11 @@ Add more general information about project. What the purpose of the project is? 
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
+
+## Image Classification Screenshots
+![Example screenshot](./img/screenshot.png)
+
+## Video Classification
 
 ## Code Examples
 Show examples of usage:
@@ -37,9 +39,6 @@ List of features ready and ToDos for future development
 
 To-do list:
 * Wow improvement to be done 1
-
-## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
