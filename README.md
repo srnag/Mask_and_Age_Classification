@@ -49,7 +49,7 @@ isto kako i tie pogornite :)
 Toni
 
 ## Video Classification
-![Alt Text](https://media.giphy.com/media/egvrdVsM3oP04EpKcv/giphy.gif)
+![Alt Text](https://media.giphy.com/media/egvrdVsM3oP04EpKcv/giphy.mp4)
 
 ## Code Examples
 Show examples of usage:
