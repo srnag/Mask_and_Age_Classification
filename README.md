@@ -1,5 +1,4 @@
 # Project: Mask and Age Classification 
-> Here goes your awesome project description!
 
 ## Table of Contents
 * [General info](#general-info)
@@ -16,10 +15,13 @@
 
 ## General Info
 With the rapid spread of COVID-19 we find ourselves plunged into a global health crisis where face masks are essential tool to limit the virus spread. As we already know, older people are less immune on this virus and it is crucial that more people are taking wearing a face mask into practice. Therefore, we have decided to create an algorithm which will recognize those who are participating and helping the public safety and those who do not, separating them in four groups:
--	old_with_mask
--	old_without_mask
--	young_with_mask
--	young_without_mask
+
+| No.  | Group name  | Number of files |
+| ------------- | ------------- | ------------- |
+|1 | old_with_mask  | 381 |
+|2| old_without_mask |  355 |
+|3| young_with_mask  | 346  |
+|4| young_without_mask  | 369 |
 
 Sometimes it could be quite difficult to find the correct dataset for launching a Machine Leaning project, especially when you have to use lots of faces. For that reason, we created our own dataset by generating synthetic faces using GAN, asking our friends for their permission for using their photos, as well as downloading images from free repositories available on the Internet. 
 
