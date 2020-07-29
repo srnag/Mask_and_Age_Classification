@@ -50,7 +50,7 @@ Toni
 
 ## Video Classification
 
-<img src="https://media.giphy.com/media/egvrdVsM3oP04EpKcv/giphy.gif" width="70" height="70" />
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/3cXkZl1TYpY/0.jpg)](http://www.youtube.com/watch?v=3cXkZl1TYpY "Video Title")
 
 ## Code Examples
 Show examples of usage:
