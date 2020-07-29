@@ -50,7 +50,7 @@ Toni
 
 ## Video Classification
 
-<img src="https://github.com/FilipAngelov/Mask_and_Age_Classification/tree/master/other/gif-petar.gif" width="40" height="40" />
+<img src="https://github.com/FilipAngelov/Mask_and_Age_Classification/tree/master/other/gif-petar.gif" width="70" height="70" />
 ![Alt Text](https://github.com/FilipAngelov/Mask_and_Age_Classification/tree/master/other/gif-petar.gif)
 
 ## Code Examples
