@@ -4,6 +4,7 @@
 ## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Trained Model](#trained-model)
 * [Setup](#setup)
 * [Dataset](#dataset) 
 * [Image Classification Screenshots](#image-classification-screenshots)
@@ -18,6 +19,9 @@ Add more general information about project. What the purpose of the project is? 
 
 ## Technologies
 * Tech 1 - version 1.0
+
+## Trained Model
+* Link to model
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
