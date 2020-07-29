@@ -3,9 +3,9 @@
 
 ## Table of Contents
 * [General info](#general-info)
-* [Dataset](#dataset)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Dataset](#dataset)
 * [Image Classification Screenshots](#image classification screenshots)
 * [Video Classification](#video classification)
 * [Features](#features)
@@ -16,13 +16,13 @@
 ## General Info
 Add more general information about project. What the purpose of the project is? Motivation?
 
-## Dataset
-
 ## Technologies
 * Tech 1 - version 1.0
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
+
+## Dataset
 
 ## Image Classification Screenshots
 ![Example screenshot](./img/screenshot.png)
