@@ -16,38 +16,49 @@
 
 ## General Info
 Add more general information about project. What the purpose of the project is? Motivation?
+EMA
 
 ## Technologies
 * Tech 1 - version 1.0
+Toni
 
 ## Dataset
 * Link to dataset
+Toni
 
 ## Trained Model
 * Link to model
+Toni
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
+Filip
 
 ## Image Classification Screenshots
 ![Example screenshot](./img/screenshot.png)
+Toni
 
 ## Video Classification
-* Link to video
+* Upload GIF
+Petar
 
 ## Code Examples
 Show examples of usage:
 `put-your-code-here`
+Filip
 
 ## Features
 List of features ready and ToDos for future development
 * Awesome feature 1
+Filip
 
 To-do list:
 * Wow improvement to be done 1
+Filip
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
+SRNA
 
 ## Contributors
 
