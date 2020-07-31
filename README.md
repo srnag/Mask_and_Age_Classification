@@ -13,10 +13,12 @@
 
 
 ## General Info
-With the rapid spread of COVID-19 we find ourselves plunged into a global health crisis where face masks are essential tool to limit the virus spread. As we already know, older people are less immune on this virus and it is crucial that more people are taking wearing a face mask into practice. Therefore, we have decided to create an algorithm which will recognize those who are participating and helping the public safety and those who do not, separating them in four groups:
+With the rapid spread of COVID-19 we find ourselves plunged into a global health crisis where face masks are essential tool to limit the virus spread. As we already know, older people are less immune on this virus and it is crucial that more people should be wearing a face mask. Therefore, we have decided to create a model which will recognize those who are participating and helping the public safety and those who do not, separating them in four groups:
 
-
-
+* Old with Mask
+* Old without Mask
+* Young with Mask
+* Young without Mask
 
 
 
@@ -64,7 +66,7 @@ Filip
 
 ## Features
 List of features ready and ToDos for future development
-* Image classification function 'predict_url' which can be used to classify a picture by inserting a picture URL.
+* Image classification function 'predict_url' which can be used to classify a picture by inserting a picture URL from the internet.
   * Example: predict_url('https://i.pinimg.com/originals/db/00/0e/db000e66cc61d4f15a6c2b04916bfc9c.jpg')
 * Video classification function which runs the web camera on you machine, locates a face on the video, and classifies between the four classes.
 
@@ -72,6 +74,11 @@ To-do list:
 * Out of sample validation showed that classification errors occur mostly in the old with mask class which usually gets classified as young with a mask. We identified two potential solutions to solve the problem:
   * Collecting more data could potentially improve the model's accuracy. 
   * Create two classifiers instead of currently using only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.
+* Another improvement to the overall model could be adding granularity to the age classification. Instead of binary classification between young and old we propose multiclass classification with the following classes as an example:
+ * 0-10
+ *
+ *
+ 
 
 
 ## Inspiration
