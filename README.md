@@ -13,13 +13,15 @@
 
 
 ## General Info
-With the rapid spread of COVID-19 we find ourselves plunged into a global health crisis where face masks are essential tool to limit the virus spread. As we already know, older people are less immune on this virus and it is crucial that more people should be wearing a face mask. Therefore, we have decided to create a model which will recognize those who are participating and helping the public safety and those who do not, separating them in four groups:
+With the rapid spread of COVID-19 we find ourselves plunged into a global health crisis where face masks are essential tool to limit the virus spread. As we already know, older people are less immune on this virus and it is crucial that more people should be wearing a face mask. Therefore, we have decided to create a model which will recognize those who are helping the public safety and those who don't, separating them in four groups:
 
-* Old with Mask
-* Old without Mask
+* Old with Mask 
 * Young with Mask
+* Old without Mask
 * Young without Mask
 
+After trying several different pretrained models we found the one that gave the best results:heavy_check_mark:. <br/>
+Scroll down :arrow_down: to see our model summary, screenshots of the predictions, video classification example :camera: and more details!
 
 ## Technologies & Setup
 Technologies
@@ -78,14 +80,16 @@ To-do list:
   * Create two classifiers instead of currently using only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.
 * Another improvement to the overall model could be adding granularity to the age classification. Instead of binary classification between young and old we propose multiclass classification with the following classes as an example:
 
- * 0-2
- * 4-6
- * 8-12
- * 15-20
- * 25-32
- * 38-43
- * 48-53
- * 60-100
+| Age group  |
+| ------------- |
+| 0-2 |
+ | 4-6 |
+ | 8-12|
+ | 15-20|
+ | 25-32|
+ | 38-43|
+ | 48-53|
+ |60-100|
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
@@ -93,7 +97,7 @@ SRNA
 
 ## Contributors
 
-Thanks to the following people who have contributed to this project:
+Thanks to the following people who have contributed to this project: :raised_hands:
 
 * [@FilipAngelov](https://github.com/FilipAngelov) 
 * [@jolakoskip](https://github.com/jolakoskip) 
