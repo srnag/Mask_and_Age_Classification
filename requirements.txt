@@ -1,0 +1,7 @@
+numpy
+matplotlib
+imutils
+argparse
+time
+cv2
+os
