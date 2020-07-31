@@ -49,7 +49,7 @@ Setup
 * The dataset was split between train (containing 1044 images), validation (261 images), and test (146 images).
 
 * Dataset example pictures
-![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/Example_Pictures.png)
+![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/download.png)
 
 ## Trained Model
 * [Link to model](https://drive.google.com/file/d/1gRgRUPW7TaYpF2wXa5eTRINbXx3vCs9n/view?usp=sharing)
