@@ -60,12 +60,14 @@ Filip
 
 ## Features
 List of features ready and ToDos for future development
-* Awesome feature 1
-Filip
+* Image classification function 'predict_url' which can be used to classify a picture by inserting the url.
+** Example: predict_url('https://i.pinimg.com/originals/db/00/0e/db000e66cc61d4f15a6c2b04916bfc9c.jpg')
+* Video classification function which runs the web camera, locates face on video, and classifies between the four classes. 
+**
 
 To-do list:
-* Wow improvement to be done 1
-Filip
+* Collecting more data will improve model's accuracy. 
+
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
