@@ -21,7 +21,6 @@ With the rapid spread of COVID-19 we find ourselves plunged into a global health
 * Young without Mask
 
 
-
 ## Technologies & Setup
 Technologies
 * We used Keras for model architecture, training, and prediction.
@@ -57,10 +56,7 @@ Setup
  ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/model_summaries.png)
 
 ## Image Classification Screenshots
-![Example screenshot](./img/screenshot.png)
-isto kako i tie pogornite :)
-Toni
-![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/download%20(1).png)
+![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/Presentation1.png)
 
 ## Video Classification
 ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/gif-petar.gif)
