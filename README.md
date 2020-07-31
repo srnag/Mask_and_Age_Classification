@@ -35,7 +35,7 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 
 ## Dataset
 * Sometimes it could be quite difficult to find the correct dataset for launching a Machine Leaning project, especially when you have to use lots of faces. For that reason, we created our own dataset by generating synthetic faces using GAN, asking our friends for their permission for using their photos, as well as downloading images from free repositories available on the Internet. 
-* Additionally, during the process of generating our dataset we implemented a simple method to augment a mask on a person's face. The result of a particular image pre and post augmentation is as follows:
+* Additionally, during the process of generating our dataset we implemented a simple [method :link:](https://github.com/FilipAngelov/Mask_and_Age_Classification/tree/master/code_mask_on_face) to augment a mask on a person's face. The result of a particular image pre and post augmentation is as follows:
 ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/face_augmentation.png)
 
 * Below is a summary of our [dataset :link:](https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing)
