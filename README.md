@@ -60,8 +60,6 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 
 * Dataset example pictures  
 
-![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/download.png)
-
 | No.  | Group name  | train_example | validation_example | test_example |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |1 | old_with_mask  | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/download%20(1).png) | a | a|
