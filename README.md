@@ -47,6 +47,8 @@ Setup
 
 * [Link to dataset](https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing) 
 
+* The dataset was split between train (containing 1044 images), validation (261 images), and test (146 images).
+
 ## Trained Model
 * [Link to model](https://drive.google.com/file/d/1gRgRUPW7TaYpF2wXa5eTRINbXx3vCs9n/view?usp=sharing)
  
