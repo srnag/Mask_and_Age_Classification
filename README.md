@@ -62,7 +62,7 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 
 | No.  | Group name  | train_example | validation_example | test_example |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1 | old_with_mask  | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/train_old_with_mask.png) | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/val_old_with_mask.png) | a|
+|1 | old_with_mask  | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/train_old_with_mask.png) | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/val_old_with_mask.png) | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/test_old_with_mask.png) |
 |2| old_without_mask |  ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/train_old_without_mask.png) | a | a |
 |3| young_with_mask  | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/train_young_with_mask.png)  | a | a |
 |4| young_without_mask  | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/train_young_without_mask.png) | a | a |
