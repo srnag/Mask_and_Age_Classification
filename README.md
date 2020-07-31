@@ -43,8 +43,7 @@ Setup
 |3| young_with_mask  | 346  |
 |4| young_without_mask  | 369 |
 
-* Link to dataset
-https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing 
+* [Link to dataset](https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing) 
 
 ## Trained Model
 * Link to model 
@@ -56,7 +55,7 @@ isto kako i tie pogornite :)
 Toni
 
 ## Video Classification
-![video](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/gif-petar.gif)
+![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/gif-petar.gif)
 
 ## Code Examples
 Show examples of usage:
