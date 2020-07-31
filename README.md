@@ -42,7 +42,7 @@ Toni
 ## Setup
 * We used Keras for model architecture, training, and prediction.
 * Model training was done in Google Colab. There is no need to install any of the libraries used in the notebook if you use Colab as they are preinstalled for you. 
-* You would need to import all the libraries used in the notebook. All the libraries used are listed in the Import Libraries section at the beginning of the notebook. 
+* You would need to import all the libraries used in the notebook. All the libraries used are listed in the Import Libraries section at the beginning of the notebook.
 
 
 ## Image Classification Screenshots
@@ -51,8 +51,7 @@ isto kako i tie pogornite :)
 Toni
 
 ## Video Classification
-
-![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/gif-petar.gif)
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/3cXkZl1TYpY/0.jpg)](http://www.youtube.com/watch?v=3cXkZl1TYpY "Live webcam classification test")
 
 ## Code Examples
 Show examples of usage:
@@ -63,8 +62,7 @@ Filip
 List of features ready and ToDos for future development
 * Image classification function 'predict_url' which can be used to classify a picture by inserting a picture URL.
   * Example: predict_url('https://i.pinimg.com/originals/db/00/0e/db000e66cc61d4f15a6c2b04916bfc9c.jpg')
-* Video classification function which runs the web camera locates face on video and classifies between the four classes.
-  *
+* Video classification function which runs the web camera on you machine, locates a face on the video, and classifies between the four classes.
 
 To-do list:
 * Out of sample validation showed that classification errors occur mostly in the old with mask class which usually gets classified as young with a mask. We identified two potential solutions to solve the problem:
