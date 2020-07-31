@@ -62,6 +62,13 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 
 ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/download.png)
 
+| No.  | Group name  | train_example | validation_example | test_example |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|1 | old_with_mask  | 381 | a | a|
+|2| old_without_mask |  355 | a | a |
+|3| young_with_mask  | 346  | a | a |
+|4| young_without_mask  | 369 | a | a |
+
 ## Trained Model
 * [:link: Clik here for our BEST model](https://drive.google.com/file/d/1gRgRUPW7TaYpF2wXa5eTRINbXx3vCs9n/view?usp=sharing)
  ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/model_summaries.png)
