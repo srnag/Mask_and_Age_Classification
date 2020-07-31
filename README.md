@@ -86,16 +86,9 @@ List of features ready and ToDos for future development
    :small_orange_diamond:Create two classifiers instead of currently using only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.<br/>
 :bulb: **Another** improvement to the overall model could be adding granularity to the age classification. Instead of binary classification between young and old we propose multiclass classification with the following classes as an example:
 
-| Age group  |
-| ------------- |
-| 0-2 |
- | 4-6 |
- | 8-12|
- | 15-20|
- | 25-32|
- | 38-43|
- | 48-53|
- |60-100|
+|**Age groups**  | 0-2 | 4-6 | 8-12|15-20|25-32|38-43|48-53|60-100|
+| :------ | :-------- | :-------- | :------ | :------ | :------ | :------ | :------ | :------ |
+
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
