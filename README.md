@@ -50,7 +50,7 @@ Toni
 
 ## Video Classification
 
-
+![](gif-petar.gif)
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/3cXkZl1TYpY/0.jpg)](http://www.youtube.com/watch?v=3cXkZl1TYpY "Live webcam classification test")
 
 ## Code Examples
