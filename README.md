@@ -40,8 +40,10 @@ https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=shari
 Toni
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-Filip
+We used Keras for model architecture, training, and prediction.
+Model training was done in Google Colab. There is no need to install any of the libraries used in the notebook if you use Colab as they are preinstalled for you. 
+You would need to import all the libraries used in the notebook. All the libraries used are listed in the Import Libraries section at the beginning of the notebook. 
+
 
 ## Image Classification Screenshots
 ![Example screenshot](./img/screenshot.png)
@@ -49,7 +51,9 @@ isto kako i tie pogornite :)
 Toni
 
 ## Video Classification
-![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/gif-petar.gif)
+
+
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/3cXkZl1TYpY/0.jpg)](http://www.youtube.com/watch?v=3cXkZl1TYpY "Live webcam classification test")
 
 ## Code Examples
 Show examples of usage:
@@ -58,13 +62,13 @@ Filip
 
 ## Features
 List of features ready and ToDos for future development
-* Image classification function 'predict_url' which can be used to classify a picture by inserting the url.
+* Image classification function 'predict_url' which can be used to classify a picture by inserting a picture URL.
 ** Example: predict_url('https://i.pinimg.com/originals/db/00/0e/db000e66cc61d4f15a6c2b04916bfc9c.jpg')
-* Video classification function which runs the web camera, locates face on video, and classifies between the four classes. 
+* Video classification function which runs the web camera locates face on video and classifies between the four classes.
 **
 
 To-do list:
-* Out of sample validation showed that the classification errors occur mostly in the old with mask class which usually gets classfied as young with mask. Collecting more data could potentialy improve model's accuracy on this error. Another possible solution is to have two classifiers instead of currently only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young. 
+* Out of sample validation showed that classification errors occur mostly in the old with mask class which usually gets classified as young with a mask. Collecting more data could potentially improve the model's accuracy on this error. Another possible solution is to have two classifiers instead of currently only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.
 
 
 ## Inspiration
