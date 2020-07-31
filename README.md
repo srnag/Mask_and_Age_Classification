@@ -36,6 +36,9 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 ## Dataset
 * Sometimes it could be quite difficult to find the correct dataset for launching a Machine Leaning project, especially when you have to use lots of faces. For that reason, we created our own dataset by generating synthetic faces using GAN, asking our friends for their permission for using their photos, as well as downloading images from free repositories available on the Internet. 
 * Below is a summary of our [dataset :link:](https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing)
+<table>
+<tr><th> Splitting between groups </th><th> Summary </th></tr>
+<tr><td>
 
 | No.  | Group name  | Number of files |
 | ------------- | ------------- | ------------- |
@@ -43,6 +46,14 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 |2| old_without_mask |  355 |
 |3| young_with_mask  | 346  |
 |4| young_without_mask  | 369 |
+
+</td><td>
+
+|Train|Validation|Test| 
+|--|:--:|--|
+|1044|261|146|
+</td></tr> </table>
+
 
 
 
