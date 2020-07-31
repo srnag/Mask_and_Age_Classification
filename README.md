@@ -29,7 +29,7 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 
 **Setup**
 * There is no need to install any of the libraries used in the notebook if you use Colab as they are preinstalled for you. 
-* When performing video classification on your local machine please refer to the Requirements.txt file in the main repository.  
+* When performing video classification on your local machine please refer to the requirements.txt file in the main repository.  
 * You would need to import all the libraries used in the notebook. All the libraries used are listed in the Project.ipynb file.
 
 
