@@ -2,10 +2,9 @@
 
 ## Table of Contents
 * [General info](#general-info)
-* [Technologies](#technologies)
+* [Technologies & Setup](#technologies-&-setup)
 * [Dataset](#dataset)
 * [Trained Model](#trained-model) 
-* [Setup](#setup)
 * [Image Classification Screenshots](#image-classification-screenshots)
 * [Video Classification](#video-classification)
 * [Features](#features)
@@ -16,6 +15,27 @@
 ## General Info
 With the rapid spread of COVID-19 we find ourselves plunged into a global health crisis where face masks are essential tool to limit the virus spread. As we already know, older people are less immune on this virus and it is crucial that more people are taking wearing a face mask into practice. Therefore, we have decided to create an algorithm which will recognize those who are participating and helping the public safety and those who do not, separating them in four groups:
 
+
+
+
+
+
+## Technologies & Setup
+Technologies
+* We used Keras for model architecture, training, and prediction.
+* Model training was done in Google Colab.
+* Video classification should be done on local machine and we used Spyder.
+
+Setup
+* There is no need to install any of the libraries used in the notebook if you use Colab as they are preinstalled for you. 
+* When performing video classification on your local machine please refer to the Requirements.txt file in the main repository.  
+* You would need to import all the libraries used in the notebook. All the libraries used are listed in the Project.ipynb file.
+
+
+## Dataset
+* Sometimes it could be quite difficult to find the correct dataset for launching a Machine Leaning project, especially when you have to use lots of faces. For that reason, we created our own dataset by generating synthetic faces using GAN, asking our friends for their permission for using their photos, as well as downloading images from free repositories available on the Internet. 
+* Below is a summary of our dataset.
+
 | No.  | Group name  | Number of files |
 | ------------- | ------------- | ------------- |
 |1 | old_with_mask  | 381 |
@@ -23,27 +43,12 @@ With the rapid spread of COVID-19 we find ourselves plunged into a global health
 |3| young_with_mask  | 346  |
 |4| young_without_mask  | 369 |
 
-Sometimes it could be quite difficult to find the correct dataset for launching a Machine Leaning project, especially when you have to use lots of faces. For that reason, we created our own dataset by generating synthetic faces using GAN, asking our friends for their permission for using their photos, as well as downloading images from free repositories available on the Internet. 
-
-
-## Technologies
-* Tech 1 - version 1.0
-(prvo da probame koj model ke funkcionira posle toa ke stavam koj model i sto tehnologii se koristeni)
-Toni
-
-## Dataset
 * Link to dataset
-https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing (ova e link so view na datasetot (neznam dali e dobra opcijata edit na istiot da ja stavam))
+https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing 
 
 ## Trained Model
 * Link to model 
  * https://drive.google.com/file/d/1gRgRUPW7TaYpF2wXa5eTRINbXx3vCs9n/view?usp=sharing
-
-## Setup
-* We used Keras for model architecture, training, and prediction.
-* Model training was done in Google Colab. There is no need to install any of the libraries used in the notebook if you use Colab as they are preinstalled for you. 
-* You would need to import all the libraries used in the notebook. All the libraries used are listed in the Import Libraries section at the beginning of the notebook.
-
 
 ## Image Classification Screenshots
 ![Example screenshot](./img/screenshot.png)
@@ -51,7 +56,7 @@ isto kako i tie pogornite :)
 Toni
 
 ## Video Classification
-![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/gif-petar.gif)
+![video](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/gif-petar.gif)
 
 ## Code Examples
 Show examples of usage:
