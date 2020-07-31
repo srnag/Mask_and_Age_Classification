@@ -1,6 +1,4 @@
 # Project: Mask and Age Classification 
-
-## Table of Contents
 * [General info](#general-info)
 * [Technologies & Setup](#technologies-&-setup)
 * [Dataset](#dataset)
@@ -37,7 +35,7 @@ Setup
 
 ## Dataset
 * Sometimes it could be quite difficult to find the correct dataset for launching a Machine Leaning project, especially when you have to use lots of faces. For that reason, we created our own dataset by generating synthetic faces using GAN, asking our friends for their permission for using their photos, as well as downloading images from free repositories available on the Internet. 
-* Below is a summary of our dataset.
+* Below is a summary of our [dataset :link:](https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing)
 
 | No.  | Group name  | Number of files |
 | ------------- | ------------- | ------------- |
@@ -46,15 +44,15 @@ Setup
 |3| young_with_mask  | 346  |
 |4| young_without_mask  | 369 |
 
-* [Link to dataset](https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing) 
 
-* The dataset was split between train (containing 1044 images), validation (261 images), and test (146 images).
+
+* The dataset was split between **train** (containing 1044 images), **validation** (261 images), and **test** (146 images).
 
 * Dataset example pictures
 ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/download.png)
 
 ## Trained Model
-* [Link to model](https://drive.google.com/file/d/1gRgRUPW7TaYpF2wXa5eTRINbXx3vCs9n/view?usp=sharing)
+* [:link: Clik here for our BEST model](https://drive.google.com/file/d/1gRgRUPW7TaYpF2wXa5eTRINbXx3vCs9n/view?usp=sharing)
  ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/model_summaries.png)
 
 ## Image Classification Screenshots
@@ -74,7 +72,7 @@ List of features ready and ToDos for future development
   * Example: predict_url('https://i.pinimg.com/originals/db/00/0e/db000e66cc61d4f15a6c2b04916bfc9c.jpg')
 * Video classification function which runs the web camera on you machine, locates a face on the video, and classifies between the four classes.
 
-To-do list:
+**To-do list:** :clipboard:
 * Out of sample validation showed that classification errors occur mostly in the old with mask class which usually gets classified as young with a mask. We identified two potential solutions to solve the problem:
   * Collecting more data could potentially improve the model's accuracy. 
   * Create two classifiers instead of currently using only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.
