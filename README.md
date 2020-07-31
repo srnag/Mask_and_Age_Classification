@@ -63,14 +63,14 @@ Filip
 ## Features
 List of features ready and ToDos for future development
 * Image classification function 'predict_url' which can be used to classify a picture by inserting a picture URL.
-** Example: predict_url('https://i.pinimg.com/originals/db/00/0e/db000e66cc61d4f15a6c2b04916bfc9c.jpg')
+  * Example: predict_url('https://i.pinimg.com/originals/db/00/0e/db000e66cc61d4f15a6c2b04916bfc9c.jpg')
 * Video classification function which runs the web camera locates face on video and classifies between the four classes.
-**
+  *
 
 To-do list:
 * Out of sample validation showed that classification errors occur mostly in the old with mask class which usually gets classified as young with a mask. We identified two potential solutions to solve the problem:
-** Collecting more data could potentially improve the model's accuracy. 
-** Create two classifiers instead of currently using only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.
+  * Collecting more data could potentially improve the model's accuracy. 
+  * Create two classifiers instead of currently using only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.
 
 
 ## Inspiration
