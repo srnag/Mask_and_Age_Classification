@@ -55,11 +55,8 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 </td></tr> </table>
 
 
+* Dataset example pictures  
 
-
-* The dataset was split between **train** (containing 1044 images), **validation** (261 images), and **test** (146 images).
-
-* Dataset example pictures
 ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/download.png)
 
 ## Trained Model
