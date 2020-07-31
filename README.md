@@ -40,9 +40,9 @@ https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=shari
 Toni
 
 ## Setup
-We used Keras for model architecture, training, and prediction.
-Model training was done in Google Colab. There is no need to install any of the libraries used in the notebook if you use Colab as they are preinstalled for you. 
-You would need to import all the libraries used in the notebook. All the libraries used are listed in the Import Libraries section at the beginning of the notebook. 
+* We used Keras for model architecture, training, and prediction.
+* Model training was done in Google Colab. There is no need to install any of the libraries used in the notebook if you use Colab as they are preinstalled for you. 
+* You would need to import all the libraries used in the notebook. All the libraries used are listed in the Import Libraries section at the beginning of the notebook. 
 
 
 ## Image Classification Screenshots
@@ -68,7 +68,9 @@ List of features ready and ToDos for future development
 **
 
 To-do list:
-* Out of sample validation showed that classification errors occur mostly in the old with mask class which usually gets classified as young with a mask. Collecting more data could potentially improve the model's accuracy on this error. Another possible solution is to have two classifiers instead of currently only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.
+* Out of sample validation showed that classification errors occur mostly in the old with mask class which usually gets classified as young with a mask. We identified two potential solutions to solve the problem:
+1. Collecting more data could potentially improve the model's accuracy. 
+2. Create two classifiers instead of currently using only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.
 
 
 ## Inspiration
