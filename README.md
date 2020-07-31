@@ -69,8 +69,8 @@ List of features ready and ToDos for future development
 
 To-do list:
 * Out of sample validation showed that classification errors occur mostly in the old with mask class which usually gets classified as young with a mask. We identified two potential solutions to solve the problem:
-1. Collecting more data could potentially improve the model's accuracy. 
-2. Create two classifiers instead of currently using only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.
+** Collecting more data could potentially improve the model's accuracy. 
+** Create two classifiers instead of currently using only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.
 
 
 ## Inspiration
