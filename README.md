@@ -49,6 +49,8 @@ Setup
 
 * The dataset was split between train (containing 1044 images), validation (261 images), and test (146 images).
 
+* Dataset example pictures
+
 ## Trained Model
 * [Link to model](https://drive.google.com/file/d/1gRgRUPW7TaYpF2wXa5eTRINbXx3vCs9n/view?usp=sharing)
  
@@ -77,11 +79,14 @@ To-do list:
   * Collecting more data could potentially improve the model's accuracy. 
   * Create two classifiers instead of currently using only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.
 * Another improvement to the overall model could be adding granularity to the age classification. Instead of binary classification between young and old we propose multiclass classification with the following classes as an example:
- * 0-10
- *
- *
- 
-
+ * 0-2
+ * 4-6
+ * 8-12
+ * 15-20
+ * 25-32
+ * 38-43
+ * 48-53
+ * 60-100
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
