@@ -46,8 +46,8 @@ Setup
 * [Link to dataset](https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing) 
 
 ## Trained Model
-* Link to model 
- * https://drive.google.com/file/d/1gRgRUPW7TaYpF2wXa5eTRINbXx3vCs9n/view?usp=sharing
+* [Link to model](https://drive.google.com/file/d/1gRgRUPW7TaYpF2wXa5eTRINbXx3vCs9n/view?usp=sharing)
+ 
 
 ## Image Classification Screenshots
 ![Example screenshot](./img/screenshot.png)
