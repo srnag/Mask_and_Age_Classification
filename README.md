@@ -51,7 +51,7 @@ isto kako i tie pogornite :)
 Toni
 
 ## Video Classification
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/3cXkZl1TYpY/0.jpg)](http://www.youtube.com/watch?v=3cXkZl1TYpY "Live webcam classification test")
+![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/gif-petar.gif)
 
 ## Code Examples
 Show examples of usage:
