@@ -22,12 +22,12 @@ After trying several different pretrained models we found the one that gave the 
 Scroll down :arrow_down: to see our model summary, screenshots of the predictions, video classification example :camera: and more details!
 
 ## Technologies & Setup
-Technologies
+**Technologies**
 * We used Keras for model architecture, training, and prediction.
 * Model training was done in Google Colab.
 * Video classification should be done on local machine and we used Spyder.
 
-Setup
+**Setup**
 * There is no need to install any of the libraries used in the notebook if you use Colab as they are preinstalled for you. 
 * When performing video classification on your local machine please refer to the Requirements.txt file in the main repository.  
 * You would need to import all the libraries used in the notebook. All the libraries used are listed in the Project.ipynb file.
@@ -73,10 +73,10 @@ List of features ready and ToDos for future development
 * Video classification function which runs the web camera on you machine, locates a face on the video, and classifies between the four classes.
 
 **To-do list:** :clipboard:
-* Out of sample validation showed that classification errors occur mostly in the old with mask class which usually gets classified as young with a mask. We identified two potential solutions to solve the problem:
-  * Collecting more data could potentially improve the model's accuracy. 
-  * Create two classifiers instead of currently using only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.
-* Another improvement to the overall model could be adding granularity to the age classification. Instead of binary classification between young and old we propose multiclass classification with the following classes as an example:
+* Out of sample validation showed that classification errors occur mostly in the old with mask class which usually gets classified as young with a mask. We identified **two potential solutions to solve the problem**:<br/>
+   :small_orange_diamond:Collecting more data could potentially improve the model's accuracy.<br/>
+   :small_orange_diamond:Create two classifiers instead of currently using only one. The first classifier will classify between with_mask and without_mask, and the second one will classify between old and young.<br/>
+:bulb: **Another** improvement to the overall model could be adding granularity to the age classification. Instead of binary classification between young and old we propose multiclass classification with the following classes as an example:
 
 | Age group  |
 | ------------- |
