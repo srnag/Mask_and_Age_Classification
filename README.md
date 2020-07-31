@@ -79,7 +79,7 @@ Filip
 
 ## Features
 List of features ready and ToDos for future development
-* Image classification function 'predict_url' which can be used to classify a picture by inserting a picture URL from the internet.
+* Image classification function ['predict_url' :link:](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/predict_url.ipynb) which can be used to classify a picture by inserting a picture URL from the internet.
   * Example: predict_url('https://i.pinimg.com/originals/db/00/0e/db000e66cc61d4f15a6c2b04916bfc9c.jpg')
 * Video classification function which runs the web camera on you machine, locates a face on the video, and classifies between the four classes.
 
