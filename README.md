@@ -59,6 +59,7 @@ Setup
 ![Example screenshot](./img/screenshot.png)
 isto kako i tie pogornite :)
 Toni
+![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/download%20(1).png)
 
 ## Video Classification
 ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/gif-petar.gif)
