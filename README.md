@@ -36,8 +36,8 @@ Toni
 https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing (ova e link so view na datasetot (neznam dali e dobra opcijata edit na istiot da ja stavam))
 
 ## Trained Model
-* Link to model (prvo da probame koj model ke funkcionira posle toa ke stavam link od modelot)
-Toni
+* Link to model 
+ * https://drive.google.com/file/d/1gRgRUPW7TaYpF2wXa5eTRINbXx3vCs9n/view?usp=sharing
 
 ## Setup
 * We used Keras for model architecture, training, and prediction.
