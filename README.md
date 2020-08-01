@@ -68,7 +68,7 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 |4| young_without_mask  | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/train_young_without_mask.png) | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/val_young_without_mask.png) | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/test_young_without_mask.png) |
 
 ## Trained Model
-* We trained few models based on pretrained architectures implented in Keras. The best models gave accuracy results of around 98% and were based on ResNet50 and ResNet152 pretrained architectures. Below is link to the best model and summary table of results and important parametars used at training.
+* We trained a few models based on pre-trained architectures implemented in Keras. The best models gave accuracy results of around 98% and were based on ResNet50 and ResNet152 pre-trained architectures. Below is a link to the best model and summary table of results and important parameters used at training.
   * [:link: Clik here for our BEST model](https://drive.google.com/file/d/1gRgRUPW7TaYpF2wXa5eTRINbXx3vCs9n/view?usp=sharing)
   ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/model_summaries.png)
 
