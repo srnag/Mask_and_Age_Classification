@@ -38,7 +38,7 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 * Additionally, during the process of generating our dataset we implemented a simple [method :link:](https://github.com/FilipAngelov/Mask_and_Age_Classification/tree/master/code_mask_on_face) to augment a mask on a person's face. The result of a particular image pre and post augmentation is as follows:
 ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/face_augmentation.png)
 
-* Below is a summary of our [dataset :link:](https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing)
+* Below is a summary of our [dataset :link:](https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing) which totaled 1,451 images.
 <table>
 <tr><th> Split between classes </th><th> Summary </th></tr>
 <tr><td>
