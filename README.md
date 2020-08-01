@@ -13,10 +13,10 @@
 ## General Info
 With the rapid spread of COVID-19 we find ourselves plunged into a global health crisis where face masks are essential tool to limit the virus spread. As we already know, older people are less immune on this virus and it is crucial that more people should be wearing a face mask. Therefore, we have decided to create a model which will recognize those who are helping the public safety and those who don't, separating them in four groups:
 
-* Old with Mask 
-* Young with Mask
-* Old without Mask
-* Young without Mask
+* Old With Mask 
+* Young With Mask
+* Old Without Mask
+* Young Without Mask
 
 After trying several different pretrained models we found the one that gave the best results:heavy_check_mark:. <br/>
 Scroll down :arrow_down: to see our model summary, screenshots of the predictions, video classification example :camera: and more details!
