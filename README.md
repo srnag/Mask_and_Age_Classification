@@ -1,5 +1,5 @@
 # Project: Mask and Age Classification 
-* [General info](#general-info)
+* [General Info](#general-info)
 * [Technologies & Setup](#technologies-&-setup)
 * [Dataset](#dataset)
 * [Trained Model](#trained-model) 
