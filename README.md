@@ -40,10 +40,10 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 
 * Below is a summary of our [dataset :link:](https://drive.google.com/file/d/14RjXeKji5mtuWSB7Xbvnq4kWDeDpLGjj/view?usp=sharing)
 <table>
-<tr><th> Splitting between groups </th><th> Summary </th></tr>
+<tr><th> Split between classes </th><th> Summary </th></tr>
 <tr><td>
 
-| No.  | Group name  | Number of files |
+| ID.  | Class  | Number of images |
 | ------------- | ------------- | ------------- |
 |1 | old_with_mask  | 381 |
 |2| old_without_mask |  355 |
@@ -60,7 +60,7 @@ Scroll down :arrow_down: to see our model summary, screenshots of the prediction
 
 * Dataset example pictures  
 
-| No.  | Group name  | train_example | validation_example | test_example |
+| ID.  | Class name  | train_example | validation_example | test_example |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |1 | old_with_mask  | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/train_old_with_mask.png) | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/val_old_with_mask.png) | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/test_old_with_mask.png) |
 |2| old_without_mask |  ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/train_old_without_mask.png) | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/val_old_without_mask.png) | ![image](https://github.com/FilipAngelov/Mask_and_Age_Classification/blob/master/other/test_old_without_mask.png) |
